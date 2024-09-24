@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/chekea-boom/static/css/main.9a71fbc5.css",
-    "main.js": "/chekea-boom/static/js/main.2068b69f.js",
-    "static/js/988.8773bd8b.chunk.js": "/chekea-boom/static/js/988.8773bd8b.chunk.js",
-    "static/js/655.99064c99.chunk.js": "/chekea-boom/static/js/655.99064c99.chunk.js",
-    "static/js/539.f07c232a.chunk.js": "/chekea-boom/static/js/539.f07c232a.chunk.js",
-    "static/js/291.ffa255c0.chunk.js": "/chekea-boom/static/js/291.ffa255c0.chunk.js",
-    "static/js/821.cc614f84.chunk.js": "/chekea-boom/static/js/821.cc614f84.chunk.js",
-    "static/js/475.160d1354.chunk.js": "/chekea-boom/static/js/475.160d1354.chunk.js",
-    "static/js/465.301ab9aa.chunk.js": "/chekea-boom/static/js/465.301ab9aa.chunk.js",
-    "static/js/206.53c48c4b.chunk.js": "/chekea-boom/static/js/206.53c48c4b.chunk.js",
-    "static/js/578.6f2aba0e.chunk.js": "/chekea-boom/static/js/578.6f2aba0e.chunk.js",
-    "static/js/885.66e3b1dd.chunk.js": "/chekea-boom/static/js/885.66e3b1dd.chunk.js",
-    "static/js/277.c77a2c3a.chunk.js": "/chekea-boom/static/js/277.c77a2c3a.chunk.js",
-    "static/js/751.ef1f914c.chunk.js": "/chekea-boom/static/js/751.ef1f914c.chunk.js",
-    "index.html": "/chekea-boom/index.html"
+    "main.css": "/Prueba/static/css/main.9a71fbc5.css",
+    "main.js": "/Prueba/static/js/main.89d6809b.js",
+    "static/js/988.0e2c240b.chunk.js": "/Prueba/static/js/988.0e2c240b.chunk.js",
+    "static/js/655.13441be6.chunk.js": "/Prueba/static/js/655.13441be6.chunk.js",
+    "static/js/539.fd978686.chunk.js": "/Prueba/static/js/539.fd978686.chunk.js",
+    "static/js/291.ca219dda.chunk.js": "/Prueba/static/js/291.ca219dda.chunk.js",
+    "static/js/821.5f0bb7f2.chunk.js": "/Prueba/static/js/821.5f0bb7f2.chunk.js",
+    "static/js/412.46bbfa0f.chunk.js": "/Prueba/static/js/412.46bbfa0f.chunk.js",
+    "static/js/671.5d42f934.chunk.js": "/Prueba/static/js/671.5d42f934.chunk.js",
+    "static/js/720.0e03b2fe.chunk.js": "/Prueba/static/js/720.0e03b2fe.chunk.js",
+    "static/js/48.4105279a.chunk.js": "/Prueba/static/js/48.4105279a.chunk.js",
+    "static/js/206.53c48c4b.chunk.js": "/Prueba/static/js/206.53c48c4b.chunk.js",
+    "static/js/578.17d81899.chunk.js": "/Prueba/static/js/578.17d81899.chunk.js",
+    "static/js/277.aeb6a8c2.chunk.js": "/Prueba/static/js/277.aeb6a8c2.chunk.js",
+    "static/js/658.7acba16f.chunk.js": "/Prueba/static/js/658.7acba16f.chunk.js",
+    "static/js/751.ef1f914c.chunk.js": "/Prueba/static/js/751.ef1f914c.chunk.js",
+    "static/js/911.a2a70dcb.chunk.js": "/Prueba/static/js/911.a2a70dcb.chunk.js",
+    "index.html": "/Prueba/index.html"
   },
   "entrypoints": [
     "static/css/main.9a71fbc5.css",
-    "static/js/main.2068b69f.js"
+    "static/js/main.89d6809b.js"
   ]
 }
